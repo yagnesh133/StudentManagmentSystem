@@ -1,0 +1,34 @@
+
+body {
+  margin: 0;
+  background: #f4f6f8;
+  font-family: Arial, sans-serif;
+}
+
+
+.app-container {
+  text-align: center;
+  padding: 20px;
+}
+
+
+.app-title {
+  color: #2c3e50;
+  margin-bottom: 20px;
+}
+
+
+.divider {
+  margin: 30px auto;
+  width: 60%;
+  border: none;
+  border-top: 2px solid #ddd;
+}
+
+
+.content {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  flex-wrap: wrap;
+}
